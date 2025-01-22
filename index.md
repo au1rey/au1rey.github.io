@@ -3,7 +3,7 @@
 <img src="SiteFiles/me.png" align="left" width=150>&nbsp;  Software Developer<br/>
 &nbsp;  Southern New Hampshire University <br/>
 &nbsp; &nbsp;email: audrey.saidel@snhu.edu<br/>
-&nbsp; &nbsp;[Resume](SiteFiles/Audrey_Saidel_resume.docx.pdf)
+&nbsp; &nbsp;[Resume](SiteFiles/resume.pdf)
 
 <br/>
 <br/>
