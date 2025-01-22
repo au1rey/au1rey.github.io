@@ -1,7 +1,7 @@
 ## Audrey Saidel
 
-<img src="SiteFiles/me.png" align="left" width=150>&nbsp; Software Developer<br/>
-&nbsp; SNHU <br/>
+<img src="SiteFiles/me.png" align="left" width=150>&nbsp;  Software Developer<br/>
+&nbsp;  SNHU <br/>
 &nbsp; &nbsp; email: audrey.saidel@snhu.edu<br/>
 &nbsp; &nbsp; [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
 
