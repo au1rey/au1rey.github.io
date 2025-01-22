@@ -16,4 +16,4 @@ I am a Sophomore Computer Science major currently pursuing my bachelors at SNHU.
 
 ### Sample Work Products
 
-I'm available for safety-related consulting work in the manufacturing and production fields. Check out [one of my recent safety reports](https://agmath.github.io/PagesBasic/SiteFiles/SampleSafetyReport.html) from an incident at Pawtucket Brewery as an example of what I can do for you!
+I'm available for android java application design.. Check out [one of my recdent apps](https://agmath.github.io/PagesBasic/SiteFiles/SampleSafetyReport.html) from a group project at SNHU!
