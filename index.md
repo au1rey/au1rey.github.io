@@ -2,8 +2,8 @@
 
 <img src="SiteFiles/me.png" align="left" width=150>&nbsp;  Software Developer<br/>
 &nbsp;  Southern New Hampshire University <br/>
-&nbsp; &nbsp;  email: audrey.saidel@snhu.edu<br/>
-&nbsp; &nbsp;  [Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
+&nbsp; &nbsp;email: audrey.saidel@snhu.edu<br/>
+&nbsp; &nbsp;[Resume](https://agmath.github.io/PagesBasic/SiteFiles/Resume/peter_resume.html)
 
 <br/>
 <br/>
