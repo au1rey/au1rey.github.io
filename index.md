@@ -16,4 +16,4 @@ I am a Sophomore Computer Science major currently pursuing my bachelors at SNHU.
 
 ### Sample Work Products
 
-I'm available for android java application design.. Check out [one of my recdent apps](https://github.com/Austin-bryan/YesChef) from a group project at SNHU!
+I'm available for android java application design.. Check out [one of my recent apps](https://github.com/Austin-bryan/YesChef) from a group project at SNHU!
