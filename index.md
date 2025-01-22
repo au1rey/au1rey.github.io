@@ -12,7 +12,7 @@
 
 ### Welcome
 
-I am a Sophomore Computer Science major currently pursuing my bachelors at SNHU.
+I am a Sophomore Computer Science major currently pursuing my bachelors at SNHU. I enjoy coding in C++, Java, R, and Python. I have light experience with SQL and C#.
 
 ### Sample Work Products
 
