@@ -4,6 +4,7 @@
 &nbsp;  Southern New Hampshire University <br/>
 &nbsp; &nbsp;email: audrey.saidel@snhu.edu<br/>
 &nbsp; &nbsp;[Resume](SiteFiles/resume.pdf)
+&nbsp; &nbsp;[LinkedIn](https://www.linkedin.com/in/audrey-saidel-33863b294/)
 
 <br/>
 <br/>
