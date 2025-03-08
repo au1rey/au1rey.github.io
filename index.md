@@ -22,3 +22,4 @@ I am a Sophomore Computer Science major currently pursuing my bachelors at SNHU.
 -I'm available for AGILE Systems Anaylsis and Design... Check out [one of my recent projects](https://github.com/au1rey/CS-255-Driver-Pass-Documentation) where I analyze + design schema for a driving school system.
 
 -I'm available for Statistical Modeling... Check out [my data visualization project](https://github.com/au1rey/MAT434) where I begin by analyzing baseball data.
+I also analyzed mock-spaceshsip data to see what model would be best used for predicting recall (whether a passenger would be transported to another planet), you can read about that here: [Spaceship Titanic](https://au1rey.github.io/MAT434/SpaceshipTitanicEDA.html) 
