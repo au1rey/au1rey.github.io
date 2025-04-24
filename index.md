@@ -22,3 +22,9 @@ Welcome to my page!
   - Fully functional recipe application (create, edit and store recipes as well as a grocery to-do list)
   - Planned and developed using AGILE methodology + Jira as a KAN Board
   - [Repository](https://github.com/Austin-bryan/YesChef)
+
+#### Student Performance Project
+  - Utilized machine learning in R
+  - Created and tuned a random forest model to predict student grade class
+  - Utilize a [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset) dataset
+  - [HTML]()
