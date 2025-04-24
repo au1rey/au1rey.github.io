@@ -26,5 +26,5 @@ Welcome to my page!
 #### Student Performance Project
   - Utilized machine learning in R
   - Created and tuned a random forest model to predict student grade class
-  - Utilize a [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset) dataset
+  - Utilized a [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset) dataset
   - [HTML]()
